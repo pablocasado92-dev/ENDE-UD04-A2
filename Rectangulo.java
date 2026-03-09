@@ -1,3 +1,4 @@
+//Modificación en rama develop - Pablo Casado - 2026-03-09
 package figuras;
 
 import java.awt.Color;
