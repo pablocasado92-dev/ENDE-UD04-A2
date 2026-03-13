@@ -2,6 +2,8 @@ package figuras;
 //aitor was here
 import java.awt.Color;
 
+//Daniel Martin was here.
+
 public abstract class Figura {
     private Punto centro;
     private Color color;
