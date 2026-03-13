@@ -1,6 +1,6 @@
 //Modificación en la rama master
 package figuras;
-
+//aitor was here
 import java.util.Scanner;
 import java.awt.Color;
 

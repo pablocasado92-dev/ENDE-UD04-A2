@@ -1,5 +1,5 @@
 package figuras;
-
+//aitor was here
 public class Punto {
     private double x;
     private double y;

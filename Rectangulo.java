@@ -1,5 +1,5 @@
 package figuras;
-
+// aitor was here
 import java.awt.Color;
 
 public class Rectangulo extends Figura {
