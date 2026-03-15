@@ -1,6 +1,7 @@
 package figuras;
 // Comentario para probar pull request
 //aitor was here
+//alejandro puso un comentario
 import java.awt.Color;
 
 public class Cuadrado extends Rectangulo {
