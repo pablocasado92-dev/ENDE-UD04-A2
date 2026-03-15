@@ -1,5 +1,5 @@
 package figuras;
-// aitor was here
+// Modificado por Pablo para la última parte de la actividad 3
 import java.awt.Color;
 
 public class Triangulo extends Figura {
